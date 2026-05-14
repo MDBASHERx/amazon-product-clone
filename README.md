@@ -26,7 +26,23 @@ A responsive Amazon-inspired product page clone built using HTML and CSS.
 
 # 📷 Preview
 
-<!-- Add screenshots here -->
+## Product Page
+<img src="./preview/preview-1.png" alt="Amazon Product Clone Preview 1"/>
+
+---
+
+## Related Products & Product Information
+<img src="./preview/preview-2.png" alt="Amazon Product Clone Preview 2"/>
+
+---
+
+## Product Description & Reviews
+<img src="./preview/preview-3.png" alt="Amazon Product Clone Preview 3"/>
+
+---
+
+## Footer
+<img src="./preview/preview-4.png" alt="Amazon Product Clone Preview 4"/>
 
 ---
 
@@ -61,11 +77,3 @@ AMAZON-PRODUCT-CLONE/
 
 This project was created for educational and frontend practice purposes only.  
 Amazon branding and design inspiration belong to Amazon.
-
----
-
-# 👨‍💻 Author
-
-Mohammad Basher
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdbasherx)
