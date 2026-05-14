@@ -1,4 +1,6 @@
-# Amazon Product Clone
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=900&lines=Amazon+Product+Clone;Responsive+Amazon-Inspired+UI;HTML+%7C+CSS+%7C+JavaScript;Frontend+Practice+Project" />
+</p>
 
 A responsive Amazon-inspired product page clone built using HTML and CSS.
 
