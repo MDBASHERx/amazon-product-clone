@@ -71,23 +71,6 @@ Build amazon-product-clone from the source and install dependencies:
     ```sh
     ❯ cd amazon-product-clone
     ```
-
-3. **Install the dependencies:**
-
-echo 'INSERT-INSTALL-COMMAND-HERE'
-
-### Usage
-
-Run the project with:
-
-echo 'INSERT-RUN-COMMAND-HERE'
-
-### Testing
-
-Amazon-product-clone uses the {__test_framework__} test framework. Run the test suite with:
-
-echo 'INSERT-TEST-COMMAND-HERE'
-
 ---
 
 <div align="left"><a href="#top">⬆ Return</a></div>
