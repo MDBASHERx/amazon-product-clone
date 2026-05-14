@@ -9,7 +9,6 @@
 <em>Transform Shopping, Experience Seamless Digital Commerce</em>
 
 <!-- BADGES -->
-<img src="https://img.shields.io/github/last-commit/MDBASHERx/amazon-product-clone?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 <img src="https://img.shields.io/github/languages/top/MDBASHERx/amazon-product-clone?style=flat&color=0080ff" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/MDBASHERx/amazon-product-clone?style=flat&color=0080ff" alt="repo-language-count">
 
