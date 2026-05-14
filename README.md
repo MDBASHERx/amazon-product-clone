@@ -27,22 +27,22 @@ A responsive Amazon-inspired product page clone built using HTML and CSS.
 # 📷 Preview
 
 ## Product Page
-<img src="./preview/preview-1.png" alt="Amazon Product Clone Preview 1"/>
+<img src="https://www.raed.net/img?id=1546466" alt="Amazon Product Clone Preview 1"/>
 
 ---
 
 ## Related Products & Product Information
-<img src="./preview/preview-2.png" alt="Amazon Product Clone Preview 2"/>
+<img src="https://www.raed.net/img?id=1546468" alt="Amazon Product Clone Preview 2"/>
 
 ---
 
 ## Product Description & Reviews
-<img src="./preview/preview-3.png" alt="Amazon Product Clone Preview 3"/>
+<img src="https://www.raed.net/img?id=1546464" alt="Amazon Product Clone Preview 3"/>
 
 ---
 
 ## Footer
-<img src="./preview/preview-4.png" alt="Amazon Product Clone Preview 4"/>
+<img src="https://www.raed.net/img?id=1546465" alt="Amazon Product Clone Preview 4"/>
 
 ---
 
